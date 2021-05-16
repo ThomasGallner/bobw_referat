@@ -1,5 +1,5 @@
 # bobw_referat
-Thema: Produktion in Industrie u. Handwerk
+Thema: Produktion in Industrie u. Handwerk (Buch S. 97 - 140)
 schriftl. Abgabe: 19.05
 Präsentation: 26.05
 
